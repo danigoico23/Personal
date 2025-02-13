@@ -4,7 +4,7 @@ style.css
 body {
     text-align: center; /* Center-align text */
     margin: 0; /* Remove default margin */
-    background-color: #FADADD; /* Set background color to light pink */
+    background-color: lightpink; /* Set background color to light pink */
 }
 
 #container {
