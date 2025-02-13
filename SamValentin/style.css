@@ -21,10 +21,13 @@ body {
 
 #question {
     font-size: 52px; /* Set font size for the question */
+    font-family: 'Sacramento', cursive;
 }
 
 #options {
-    margin-top: 20px; /* Add space above the options */
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; /* Add space above the options */
 }
 
 button {
@@ -35,4 +38,5 @@ button {
     color: white; /* Set text color to white */
     border: none; /* Remove button border */
     cursor: pointer; /* Set cursor to pointer on hover */
+    font-family: 'Sacramento', cursive;
 }
